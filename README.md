@@ -1,1 +1,2 @@
 # sample
+Start learning Git
